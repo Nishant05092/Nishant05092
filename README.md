@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Nishant Sharma 👋
 
-<!--
-**Nishant05092/Nishant05092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer | Mechatronics & Automation Engineering @ IIIT Bhagalpur
 
-Here are some ideas to get you started:
+I build AI-powered applications focused on **RAG, LLMs, AI Agents, Computer Vision, and Automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: AI/LLM applications and multi-agent systems
+- 🤖 Interested in: RAG | LLMs | AI Agents | Computer Vision | Data Science
+- 💻 Languages: Python | C++ | SQL | JavaScript/TypeScript
+- 🛠️ Frameworks: LangChain | LangGraph | FastAPI | Flask | React
+- 🧠 ML: PyTorch | TensorFlow | Scikit-learn | Hugging Face
+- 🗄️ Databases: PostgreSQL | SQLite | FAISS | ChromaDB
+- ☁️ Tools: Git | GitHub | Docker | Power BI
+
+## 🚀 Featured Projects
+
+### 🤖 Philips Product Knowledge AI Agent
+Enterprise RAG system designed to answer questions strictly from uploaded product documentation.
+
+### 📊 MarketScout
+Multi-agent market research system for automated research, analysis and reporting.
+
+### 🐱🐶 Cat vs Dog Classifier
+CNN-based image classification web application built with TensorFlow/Keras and Flask.
+
+## 📈 GitHub Stats
+
+<!-- Add GitHub stats here -->
+
+## 📫 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN) • [GitHub](YOUR_GITHUB)
