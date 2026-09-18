@@ -1,6 +1,6 @@
 # Hi, I'm Nishant Sharma 👋
 
-### AI/ML Engineer | Mechatronics & Automation Engineering @ IIIT Bhagalpur
+### Intern - Software Developer Level 1 @Philips
 
 I build AI-powered applications focused on **RAG, LLMs, AI Agents, Computer Vision, and Automation**.
 
